@@ -1,0 +1,12 @@
+D:\engineering__\furukawa automotive system\application\visual_inspection\visual_inspection\bin\Debug\visual_inspection.exe
+D:\engineering__\furukawa automotive system\application\visual_inspection\visual_inspection\bin\Debug\visual_inspection.pdb
+D:\engineering__\furukawa automotive system\application\visual_inspection\visual_inspection\bin\Debug\visual_inspection.xml
+D:\engineering__\furukawa automotive system\application\visual_inspection\visual_inspection\obj\x86\Debug\WindowsApplication1.frmSerialPort.resources
+D:\engineering__\furukawa automotive system\application\visual_inspection\visual_inspection\obj\x86\Debug\WindowsApplication1.frmSelectModel.resources
+D:\engineering__\furukawa automotive system\application\visual_inspection\visual_inspection\obj\x86\Debug\WindowsApplication1.frmMain.resources
+D:\engineering__\furukawa automotive system\application\visual_inspection\visual_inspection\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\engineering__\furukawa automotive system\application\visual_inspection\visual_inspection\obj\x86\Debug\visual_inspection.vbproj.GenerateResource.Cache
+D:\engineering__\furukawa automotive system\application\visual_inspection\visual_inspection\obj\x86\Debug\visual_inspection.exe
+D:\engineering__\furukawa automotive system\application\visual_inspection\visual_inspection\obj\x86\Debug\visual_inspection.xml
+D:\engineering__\furukawa automotive system\application\visual_inspection\visual_inspection\obj\x86\Debug\visual_inspection.pdb
+D:\engineering__\furukawa automotive system\application\visual_inspection\visual_inspection\bin\Debug\visual_inspection.exe.config
